@@ -1,1 +1,1 @@
-powershell -ExecutionPolicy Bypass -File query.ps1
+powershell -ExecutionPolicy Bypass -File query2.ps1
